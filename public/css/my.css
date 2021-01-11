@@ -1,0 +1,11 @@
+.cur {
+    cursor: pointer;
+}
+.button-period {
+    margin: 8px;
+}
+.my-card-header{
+    background-color: rgba(136,180,0, 0.5);
+    text-align: center;
+}
+/**/
