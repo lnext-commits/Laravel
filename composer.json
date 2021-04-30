@@ -8,10 +8,10 @@
     ],
     "license": "MIT",
     "require": {
-        "composer/composer": "2.0.13"
+        "composer/composer": "2.0.13",
         "php": "^7.2",
         "fideloper/proxy": "^4.0",
-        "laravel/framework": "6.20.26"
+        "laravel/framework": "6.20.26",
         "laravel/tinker": "^2.0",
         "laravel/ui": "1.*"
     },
@@ -43,7 +43,8 @@
         ]
     },
     "dependencies": {  
-        "ssri": ">=8.0.1" 
+        "ssri": ">=8.0.1",
+         "elliptic": ">=6.5.4"
     },
     "autoload-dev": {
         "psr-4": {
