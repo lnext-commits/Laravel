@@ -42,6 +42,9 @@
             "database/factories"
         ]
     },
+    "dependencies": {  
+        "ssri": ">=8.0.1" 
+    },
     "autoload-dev": {
         "psr-4": {
             "Tests\\": "tests/"
